@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         密码填充器
-// @namespace    https://github.com/NightGlow954/
+// @namespace    https://github.com/NightGlow954/WebPasswordFiller
 // @version      2.0.0
 // @description  协议+端口级账号；分列管理面板；持久选择器；
 // @author       NightGlow
